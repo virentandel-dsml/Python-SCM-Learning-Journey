@@ -5,8 +5,8 @@ Supply Chain Management, Analytics and business problem solving.
 
 ## Objective
 
-I am learning Python not as a software developer, but as a
-Supply Chain professional transitioning toward Data & Analytics.
+I am learning Python as a tool to solve Supply Chain business 
+problems and strengthen my transition towards Data & Analytics.
 
 The focus is on solving practical business problems across:
 
@@ -52,9 +52,6 @@ Practical exercises:
 | Week | Focus |
 |---|---|
 | Week 1 | Python Fundamentals |
-| Week 2 | ... |
-| Week 3 | ... |
-| Week 4 | ... |
 
 More to come as the learning journey progresses.
 
