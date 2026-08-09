@@ -17,7 +17,7 @@ Learn Python fundamentals by applying them to practical Supply Chain Management 
 ### 1. Inventory Health Dashboard
 Compared current inventory against safety stock to identify whether inventory is healthy or requires replenishment.
 
-![Inventory Health Dashboard](images/01_Inventory Health Dashboard.jpg)
+![Inventory Health Dashboard](images/01_Inventory_Health_Dashboard.jpg)
 
 [View Notebook](04_Inventory_Health_Dashboard.ipynb)
 
@@ -25,7 +25,7 @@ Compared current inventory against safety stock to identify whether inventory is
 ### 2. Purchase Order Approval Dashboard
 Applied approval logic based on purchase order value and an approval threshold.
 
-![Purchase Order Approval](images/02_Purchase Order Approval Dashboard.jpg)
+![Purchase Order Approval](images/02_Purchase_Order_Approval_Dashboard.jpg)
 
 [View Notebook](05_Purchase_Order_Approval_Dashboard.ipynb)
 
@@ -33,7 +33,7 @@ Applied approval logic based on purchase order value and an approval threshold.
 ### 3. Customer Order Fulfillment Dashboard
 Compared available inventory against customer order quantity to determine whether an order is ready for dispatch.
 
-![Customer Order Fulfillment](images/03_Customer Order Fulfillment.jpg)
+![Customer Order Fulfillment](images/03_Customer_Order_Fulfillment_Dashboard.jpg)
 
 [View Notebook](06_Customer_Order_Fulfillment_Dashboard.ipynb)
 
