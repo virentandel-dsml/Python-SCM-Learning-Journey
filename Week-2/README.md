@@ -6,14 +6,6 @@ Week 2 focused on moving from basic Python syntax toward applying Python control
 
 The goal was not to learn Python in isolation, but to use Python as a tool for solving SCM problems.
 
-## Learning Progression
-
-- **Day 1:** Understand the concepts — learning from instructional material, without practice
-- **Day 2:** Practice simple SCM problems
-- **Day 3:** Practice slightly more complex SCM problems
-- **Day 4:** Build a larger SCM-focused practice project
-- **Day 5:** Consolidate the learning and prepare the work for GitHub and LinkedIn
-
 ## Python Concepts Practiced
 
 - Variables
@@ -68,24 +60,6 @@ The project demonstrates how Python conditional logic can be used to translate S
 - Overall supplier score
 - Weakest KPI / risk driver
 - Recommended procurement action
-
-## Repository Structure
-
-```text
-Week-2-Python-for-Supply-Chain/
-│
-├── README.md
-│
-├── Day-2-Practice/
-│   └── Week_2_Basics_1.ipynb
-│
-├── Day-3-Practice/
-│   └── Week_2_Basics_2.ipynb
-│
-└── Day-4-Flagship-Project/
-    ├── Supplier_Performance_Risk_Assessment.ipynb
-    └── README.md
-```
 
 ## Key Learning
 
