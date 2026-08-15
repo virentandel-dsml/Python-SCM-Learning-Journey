@@ -1,14 +1,12 @@
 # Python SCM Learning Journey
 
-A practical learning journey focused on applying Python to
-Supply Chain Management, Analytics and business problem solving.
+A practical learning journey focused on applying Python to Supply Chain Management, Analytics and business problem solving.
 
 ## Objective
 
-I am learning Python as a tool to solve Supply Chain business 
-problems and strengthen my transition towards Data & Analytics.
+I am learning Python as a tool to solve Supply Chain business problems and strengthen my transition towards Data & Analytics.
 
-The focus is on solving practical business problems across:
+The focus is on applying Python to practical business scenarios across:
 
 - Inventory
 - Procurement
@@ -19,12 +17,7 @@ The focus is on solving practical business problems across:
 
 ## Learning Approach
 
-Each week combines:
-
-1. Python concepts
-2. Supply Chain business scenarios
-3. Practical exercises
-4. Progressive problem solving
+Each week combines Python concepts with practical Supply Chain use cases, gradually increasing the complexity of business problems and analytical thinking.
 
 ## Progress
 
@@ -47,16 +40,36 @@ Practical exercises:
 
 [View Week 1 →](Week-1/)
 
+### Week 2 — Python Loops & Iteration
+
+Topics covered:
+
+- `for` loops
+- `while` loops
+- `range()`
+- `zip()`
+- Loop-based calculations
+- Iteration with lists
+- Combining loops with conditional logic
+
+Practical exercises:
+
+- Inventory Replenishment Analysis
+- Order Fulfillment & Prioritization
+- Production Capacity Analysis
+- Supplier Performance & Risk Assessment
+
+[View Week 2 →](Week-2/)
+
 ## Roadmap
 
 | Week | Focus |
 |---|---|
 | Week 1 | Python Fundamentals |
+| Week 2 | Python Loops & Iteration |
 
 More to come as the learning journey progresses.
 
 ## Goal
 
-Build the ability to translate Supply Chain business problems
-into data-driven solutions using Python, analytics and eventually
-machine learning.
+Build the ability to translate Supply Chain business problems into data-driven solutions using Python, analytics and eventually machine learning.
