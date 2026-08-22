@@ -61,14 +61,43 @@ Practical exercises:
 
 [View Week 2 →](Week-2/)
 
+### Week 3 — NumPy for Supply Chain Analytics
+
+Topics covered:
+
+- NumPy arrays
+- Array dimensions, `shape` and `ndim`
+- Axes
+- Basic array and matrix operations
+- Slicing and stacking
+- Aggregation using `np.sum()` and `np.mean()`
+- `np.argmax()` and `np.argmin()`
+- Array indexing
+- Boolean masking and combined conditions
+
+Practical exercises:
+
+- SCM KPI analysis using NumPy arrays
+- Multi-dimensional array operations
+- Slicing and performance analysis
+- Transportation Performance Analysis
+
+Flagship project:
+
+- **Transportation Performance Analysis** — analyzed OTIF and Freight Cost across routes and weeks, combining service and cost metrics to identify priority areas.
+
+[View Week 3 →](Week-3/)
+
 ## Roadmap
 
 | Week | Focus |
 |---|---|
 | Week 1 | Python Fundamentals |
 | Week 2 | Python Loops & Iteration |
+| Week 3 | NumPy |
 
-More to come as the learning journey progresses.
+
+The roadmap will progressively move from Python fundamentals and array-based analysis toward data analysis, visualization, machine learning and more advanced Supply Chain Analytics.
 
 ## Goal
 
