@@ -88,6 +88,33 @@ Flagship project:
 
 [View Week 3 →](Week-3/)
 
+### Week 4 — Pandas for Supply Chain Analytics
+
+Topics covered:
+
+- Pandas
+- DataFrames
+- Reading CSV files
+- Data inspection
+- Selecting and filtering data
+- Vectorized calculations
+- `sum()`, `mean()` and `min()`
+- `groupby()`
+- `concat()`
+- `merge()`
+
+Practical exercises:
+
+- Manufacturing Inventory Analysis
+- Manufacturing Production Analysis
+- Plant-level Manufacturing Performance Analysis
+
+Flagship project:
+
+- **Manufacturing Plant Performance Analysis** — combined production achievement, machine utilization and inventory gap to create a consolidated plant-level performance view and identify plants requiring further operational attention.
+
+[View Week 4 →](Week-4/)
+
 ## Roadmap
 
 | Week | Focus |
@@ -95,9 +122,7 @@ Flagship project:
 | Week 1 | Python Fundamentals |
 | Week 2 | Python Loops & Iteration |
 | Week 3 | NumPy |
-
-
-The roadmap will progressively move from Python fundamentals and array-based analysis toward data analysis, visualization, machine learning and more advanced Supply Chain Analytics.
+| Week 4 | Pandas |
 
 ## Goal
 
