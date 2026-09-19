@@ -1,0 +1,13 @@
+Plant,Production_Line,Material,Opening_Inventory_Units,Material_Consumption_Units,Production_Quantity_Units,Safety_Stock_Units,Closing_Inventory_Units,Inventory_Status
+Pune Manufacturing Unit,Line 1,Cold Rolled Steel Sheet,520,310,285,260,210,Below Safety Stock
+Pune Manufacturing Unit,Line 2,Polyamide Granules,780,540,510,300,240,Below Safety Stock
+Pune Manufacturing Unit,Line 3,Copper Busbar,430,275,260,180,155,Below Safety Stock
+Vadodara Manufacturing Unit,Line 1,Aluminium Ingot,610,420,390,240,190,Below Safety Stock
+Vadodara Manufacturing Unit,Line 2,Engineering Polymer Pellets,920,610,575,350,310,Below Safety Stock
+Vadodara Manufacturing Unit,Line 3,Silicone Sealant,360,220,205,160,140,Below Safety Stock
+Chennai Manufacturing Unit,Line 1,Electrical Grade Steel,740,515,480,300,225,Below Safety Stock
+Chennai Manufacturing Unit,Line 2,Glass Fibre Reinforced Nylon,680,470,445,280,210,Below Safety Stock
+Chennai Manufacturing Unit,Line 3,Copper Rod,510,330,315,210,180,Below Safety Stock
+Nashik Manufacturing Unit,Line 1,Stainless Steel Coil,590,390,365,250,200,Below Safety Stock
+Nashik Manufacturing Unit,Line 2,Thermoplastic Elastomer,840,580,550,320,260,Below Safety Stock
+Nashik Manufacturing Unit,Line 3,Industrial Adhesive,410,265,245,170,145,Below Safety Stock
